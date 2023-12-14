@@ -1,3 +1,4 @@
-*.log
+
 margin/
 dir/
+*.log
